@@ -21,3 +21,4 @@ def plot_data(x, y, title='Data Plot', xlabel='X-axis', ylabel='Y-axis'):
     plt.show()
     print("Plot displayed successfully.")
     print(f"Data points: {len(x)}")
+    print(f"X data: {x}")
