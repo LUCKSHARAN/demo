@@ -20,3 +20,4 @@ def plot_data(x, y, title='Data Plot', xlabel='X-axis', ylabel='Y-axis'):
     plt.grid(True)
     plt.show()
     print("Plot displayed successfully.")
+    print(f"Data points: {len(x)}")
