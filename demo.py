@@ -23,3 +23,5 @@ def plot_data(x, y, title='Data Plot', xlabel='X-axis', ylabel='Y-axis'):
     print(f"Data points: {len(x)}")
     print(f"X data: {x}")
     print(f"Y data: {y}")
+    print("Plotting completed.")
+    print("End of plot_data function.")
