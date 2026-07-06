@@ -24,4 +24,4 @@ def plot_data(x, y, title='Data Plot', xlabel='X-axis', ylabel='Y-axis'):
     print(f"X data: {x}")
     print(f"Y data: {y}")
     print("Plotting completed.")
-    
+    print("Thank you for using the plot_data function!")
