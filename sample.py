@@ -9,3 +9,8 @@ print(f"The result of the calculation is: {result}")
 print("Now, let's create a list of numbers.")
 numbers = [1, 2, 3, 4, 5]
 print("End of the script.")
+print("Thank you for running this sample script!")
+
+print("Now, let's demonstrate a loop.")
+for i in range(5):
+    print(f"Current number in the loop: {i}")   
