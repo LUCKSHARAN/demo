@@ -25,3 +25,4 @@ def plot_data(x, y, title='Data Plot', xlabel='X-axis', ylabel='Y-axis'):
     print(f"Y data: {y}")
     print("Plotting completed.")
     
+    
