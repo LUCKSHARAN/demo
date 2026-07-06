@@ -8,5 +8,6 @@ result = 5 + 3
 print(f"The result of the calculation is: {result}")
 print("Now, let's create a list of numbers.")
 numbers = [1, 2, 3, 4, 5]
+print(f"The list of numbers is: {numbers}")
 print("End of the script.")
 print("Thank you for running this sample script!")
